@@ -1,0 +1,7 @@
+target/
+.classpath
+.project
+.settings
+.swagger-codegen-ignore
+.swagger-codegen/
+database_in_memory/
